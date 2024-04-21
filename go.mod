@@ -6,7 +6,7 @@ require (
 	github.com/alexbrainman/sspi v0.0.0-20231016080023-1a75b4708caa
 	github.com/golang/mock v1.6.0
 	github.com/jcmturner/gokrb5/v8 v8.4.4
-	github.com/stretchr/testify v1.8.4
+	github.com/stretchr/testify v1.9.0
 	golang.org/x/net v0.23.0
 )
 
